@@ -1,0 +1,9 @@
+placa_incorrecta:
+  country_code: col
+  insurance_type: soat
+  placa: rqk987
+
+placa_correcta:
+  country_code: col
+  insurance_type: soat
+  placa: FDF987
